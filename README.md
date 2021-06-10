@@ -1,0 +1,3 @@
+- 👋 I’m @foxentertain
+- 👀 I’m interested in everything
+- 🌱 I’m currently in learning progress
