@@ -1,3 +1,1 @@
-- 👋 I’m @foxentertain
-- 👀 I’m interested in everything
-- 🌱 I’m currently in learning progress
+there's no place like 127.0.0.1
